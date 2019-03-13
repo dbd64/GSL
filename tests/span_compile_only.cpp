@@ -56,15 +56,15 @@ bool foo()
 }
 
 
-GSL_SUPPRESS(con.4) // NO-FORMAT: attribute
-bool bar()
-{
-    {
-        bool ret = true;
-        vector<int> v{0,1,2,3};
-        span<int> s{v};
-        ret = ret || (s.size() == 4 && s.data() != nullptr);
+// GSL_SUPPRESS(con.4) // NO-FORMAT: attribute
+// bool bar()
+// {
+//     {
+//         bool ret = true;
+//         vector<int> v{0,1,2,3};
+//         span<int> s{v};
+//         ret = ret || (s.size() == 4 && s.data() != nullptr);
 
-        return ret;
-    }
-}
+//         return ret;
+//     }
+// }
