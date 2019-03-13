@@ -2231,7 +2231,7 @@ __formal$ = 16
 __formal$ = 24
 ?__empty_global_delete@@YAXPEAX_K@Z PROC		; __empty_global_delete, COMDAT
 ; File c:\projects\gsl\tests\span_compile_only.cpp
-; Line 57
+; Line 71
 $LN3:
 	mov	QWORD PTR [rsp+16], rdx
 	mov	QWORD PTR [rsp+8], rcx
@@ -2246,7 +2246,7 @@ _TEXT	SEGMENT
 __formal$ = 16
 ?__empty_global_delete@@YAXPEAX@Z PROC			; __empty_global_delete, COMDAT
 ; File c:\projects\gsl\tests\span_compile_only.cpp
-; Line 57
+; Line 71
 $LN3:
 	mov	QWORD PTR [rsp+8], rcx
 	push	rdi

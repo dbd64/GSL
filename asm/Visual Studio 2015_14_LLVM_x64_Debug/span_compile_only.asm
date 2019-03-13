@@ -9,7 +9,7 @@
 "?foo@@YA_NXZ":                         # @"?foo@@YA_NXZ"
 .Lfunc_begin0:
 	.cv_func_id 0
-	.cv_file	1 "C:\\projects\\gsl\\tests\\span_compile_only.cpp" "CEABC981FD71A5C2BE596AB3B742E767" 1
+	.cv_file	1 "C:\\projects\\gsl\\tests\\span_compile_only.cpp" "1C0463605BB78E16BF18F4880712E428" 1
 	.cv_loc	0 1 42 0 is_stmt 0      # ..\tests\span_compile_only.cpp:42:0
 .seh_proc "?foo@@YA_NXZ"
 # %bb.0:
